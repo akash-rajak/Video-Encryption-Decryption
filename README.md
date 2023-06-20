@@ -87,7 +87,13 @@
 ****
 
 ### 🌟Stargazers Over Time:
+[![Stargazers repo roster for @akash-rajak/Video-Encryption-Decryption](https://reporoster.com/stars/akash-rajak/Video-Encryption-Decryption)](https://github.com/akash-rajak/Video-Encryption-Decryption/stargazers)
 [![Stargazers over time](https://starchart.cc/akash-rajak/Video-Encryption-Decryption.svg)](https://starchart.cc/akash-rajak/Video-Encryption-Decryption)
+
+****
+
+### 🌟Forkers Over Time:
+[![Forkers repo roster for @akash-rajak/Video-Encryption-Decryption](https://reporoster.com/forks/akash-rajak/Video-Encryption-Decryption)](https://github.com/akash-rajak/Video-Encryption-Decryption/network/members)
 
 ****
 
